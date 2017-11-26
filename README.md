@@ -30,3 +30,7 @@ Str: 1/18
 Big dec: 0.05555555555555555555555555555555556 
 Double: 0.05555555555555555 
 ```
+
+I found that there exists a similar project, Apache commons [BigFraction](http://commons.apache.org/proper/commons-math/apidocs/org/apache/commons/math4/fraction/BigFraction.html).
+As such Ratio was moved from basic-utils to it's own repo.
+  
